@@ -132,7 +132,7 @@
 }
 .cc_container .cc_btn:hover, .cc_container .cc_btn:active {
 	background-color: #021e50;
-	color: #000
+	color: #eee
 }
 .cc_container a, .cc_container a:visited {
 	text-decoration: none;
