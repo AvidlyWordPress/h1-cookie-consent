@@ -3,7 +3,7 @@
 Plugin Name: Simple Cookie Consent
 Plugin URI: https://github.com/H1FI/h1-cookie-consent
 Description: A very simple cookie consent plugin designed specifically for multisite setups, although will work fine in single installs.
-Version: 0.1
+Version: 1.1
 Author: Daniel Koskinen, Tomi Mäenpää, H1
 Author URI: http://h1.fi
 License: GPL2
