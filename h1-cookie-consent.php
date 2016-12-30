@@ -47,6 +47,8 @@ function h1cc_scripts_styles() {
             'theme' => plugins_url( 'css/h1-cookie-consent.css', __FILE__ ),
     );
 
+    $cookie_consent_options = apply_filters( 'h1cc_options', $cookie_consent_options );
+
     wp_localize_script( 'cookieconsent2', 'cookieconsent_options', $cookie_consent_options );
 
     wp_enqueue_script( 'cookieconsent2' );
